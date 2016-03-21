@@ -1,0 +1,13 @@
+c:\users\bmanica\documents\visual studio 2015\Projects\Calculator_wpf\Calculator_wpf\bin\Release\Calculator_wpf.exe.config
+C:\Users\BManica\documents\visual studio 2015\Projects\Calculator_wpf\Calculator_wpf\bin\Release\Calculator_wpf.exe
+C:\Users\BManica\documents\visual studio 2015\Projects\Calculator_wpf\Calculator_wpf\bin\Release\Calculator_wpf.pdb
+C:\Users\BManica\documents\visual studio 2015\Projects\Calculator_wpf\Calculator_wpf\obj\Release\MainWindow.g.cs
+C:\Users\BManica\documents\visual studio 2015\Projects\Calculator_wpf\Calculator_wpf\obj\Release\App.g.cs
+C:\Users\BManica\documents\visual studio 2015\Projects\Calculator_wpf\Calculator_wpf\obj\Release\Calculator_wpf_MarkupCompile.cache
+C:\Users\BManica\documents\visual studio 2015\Projects\Calculator_wpf\Calculator_wpf\obj\Release\Calculator_wpf_MarkupCompile.lref
+C:\Users\BManica\documents\visual studio 2015\Projects\Calculator_wpf\Calculator_wpf\obj\Release\MainWindow.baml
+C:\Users\BManica\documents\visual studio 2015\Projects\Calculator_wpf\Calculator_wpf\obj\Release\Calculator_wpf.g.resources
+C:\Users\BManica\documents\visual studio 2015\Projects\Calculator_wpf\Calculator_wpf\obj\Release\Calculator_wpf.Properties.Resources.resources
+C:\Users\BManica\documents\visual studio 2015\Projects\Calculator_wpf\Calculator_wpf\obj\Release\Calculator_wpf.csproj.GenerateResource.Cache
+C:\Users\BManica\documents\visual studio 2015\Projects\Calculator_wpf\Calculator_wpf\obj\Release\Calculator_wpf.exe
+C:\Users\BManica\documents\visual studio 2015\Projects\Calculator_wpf\Calculator_wpf\obj\Release\Calculator_wpf.pdb
